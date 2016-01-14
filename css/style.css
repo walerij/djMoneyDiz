@@ -11,6 +11,11 @@ body{
 	background: url(../images/djmoney.png) no-repeat;
     height: 130px;
 }
+#aphorizm{
+	font-family: 'Lobster', cursive;
+	font-size: 22px;
+	margin-top: 10px;
+	}
 #logo a{ display: block; 
               height: 100%; 
               width:100%}
@@ -22,6 +27,7 @@ body{
 	
 	border: none;
 	border-bottom: 1px solid #4D41EC;
+	color: #938E8E; 
 	}
 #search{
 	
