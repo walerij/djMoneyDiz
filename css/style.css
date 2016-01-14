@@ -12,7 +12,8 @@ body{
     height: 130px;
 }
 #aphorizm{
-	font-family: 'Lobster', cursive;
+	/*font-family: 'Lobster', cursive;*/
+	font-family: 'Roboto Slab', serif;
 	font-size: 22px;
 	margin-top: 10px;
 	}
