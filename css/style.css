@@ -15,11 +15,31 @@ body{
               height: 100%; 
               width:100%}
 #navmenu{clear:both; height: 40px;}			  
+#FormSearch{
+	
+	margin-top: 10px;}
+#searchText{
+	
+	border: none;
+	border-bottom: 1px solid #4D41EC;
+	}
+#search{
+	
+	background:url(../images/search1.png) no-repeat;
+	width:  24px; 
+	height:24px;
+	
+	border: none;
+	
+	}
+	
+	
 #footer{clear:both;
 padding-top: 20px;
 height: 170px;
 
 }
+
 .ArticleContent{
 	
 	font: "Helvetica Neue",​Helvetica,​Arial,​sans-serif;
