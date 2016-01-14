@@ -1,0 +1,32 @@
+@charset "utf-8";
+*{margin:0; padding:0;}
+body{
+	width:100%; min-height:600px; margin:auto;}
+#maket { width:100%; margin:auto;
+}
+
+#logo {
+
+	
+	background: url(../images/djmoney.png) no-repeat;
+    height: 130px;
+}
+#logo a{ display: block; 
+              height: 100%; 
+              width:100%}
+#navmenu{clear:both; height: 40px;}			  
+#footer{clear:both;
+padding-top: 20px;
+height: 170px;
+
+}
+.ArticleContent{
+	
+	font: "Helvetica Neue",​Helvetica,​Arial,​sans-serif;
+	font-size: 16px;
+	font-weight:400;
+	line-height: 25px;
+	
+	
+	
+	}
